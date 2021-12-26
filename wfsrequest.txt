@@ -1,0 +1,1 @@
+http://geo.ipisresearch.be:80/geoserver/public/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=public:cod_mines_curated_all_opendata_p_ipis&outputFormat=SHAPE-ZIP
